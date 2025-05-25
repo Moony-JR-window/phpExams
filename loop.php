@@ -30,3 +30,10 @@ function Whileloop(){
 
 Whileloop();
 
+
+// $var1 = "hi";
+// $greeting = "Hello, world!";
+// $hi = "Hello,11 world!";
+
+// echo $$var1; // Output: Hello, world!
+
